@@ -59,10 +59,3 @@ They are preprocessed to handle:
    - ANOVA for multi-group significance
 
 ---
-
-## 🚀 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/MMRIFAT-hub/Loan_Approval_Projects.git
-   cd Loan_Approval_Projects
